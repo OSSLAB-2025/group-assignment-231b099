@@ -1,4 +1,7 @@
-231B096: Devansh, 1
-231B097: Devashish, 1
-231B098: Devendra, 1
-231B099: Devesh, 1
+231B096: Devansh, hlw
+231B097: Devashish, hii
+231B098: Devendra, hlw
+231B099: Devesh, hii
+
+
+
